@@ -56,7 +56,7 @@ const dayNumber=today.getDate();
 
 document.querySelector(".month-name").innerHTML=monthName;
 document.querySelector(".day-name").innerHTML=dayName;
-document.querySelector(".dayNumber").innerHTML=dayName;
+document.querySelector(".day-number").innerHTML=dayName;
 
 
 
